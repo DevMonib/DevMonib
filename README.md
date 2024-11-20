@@ -1,6 +1,5 @@
-# Who Am I ?!  
-
 <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
+# Who Am I ?!
 
 # 👋 Hello I'M **Monib**  
 a passionate software developer and lifelong learner with a background in Computer Engineering. I thrive on solving challenging problems and constantly learning new things. My main interests lie in Machine Learning, Deep Learning, and anything related to AI. Let’s create something amazing together!
