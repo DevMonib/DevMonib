@@ -4,6 +4,7 @@
 a passionate software developer and lifelong learner with a background in Computer Engineering. I thrive on solving challenging problems and constantly learning new things. My main interests lie in Machine Learning, Deep Learning, and anything related to AI. Let’s create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monib-veysi) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&color=20BEFF&font=verdana)](https://www.kaggle.com/monibveysi)
 
 # 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
